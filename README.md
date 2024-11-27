@@ -27,9 +27,9 @@ NODE_ENV=development
 ### Start the app
 
 ```Backend
-npm start
+npm start ---backend
 ```
 
 ```Frontend
-npm run dev
+npm run dev ---frontend
 ```
